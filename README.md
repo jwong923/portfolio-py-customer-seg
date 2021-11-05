@@ -1,4 +1,4 @@
-# portfolio project: customer segmentation by pca and k-means clustering:
+# Portfolio project: customer segmentation by pca and k-means clustering:
 
 It is best to view the notebook on Kaggle: https://www.kaggle.com/jenniewong/customer-segmentation-by-pca-and-k-mean-clustering
 
